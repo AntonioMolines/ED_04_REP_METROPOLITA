@@ -31,6 +31,8 @@
 		list-style: none;
 	}
 
+	#three, #four, #footer section { display:none}
+
 	blockquote, q {
 		quotes: none;
 	}
